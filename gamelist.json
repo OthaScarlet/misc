@@ -987,14 +987,35 @@
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1x7q.jpg"
     },
     {
+      "name": "Portal",
+      "status": "Not Started",
+      "plataform": "PC",
+      "releaseyear": 2007,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1x7d.jpg"
+    },
+    {
       "name": "Resident Evil 5",
       "status": "Beaten",
       "plataform": "PS3",
       "releaseyear": 2009,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2vzi.jpg"
+    },
+    {
+      "name": "The Beatles: Rock Band",
+      "status": "Not Started",
+      "plataform": "PS3",
+      "releaseyear": 2009,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1wqo.jpg"
     }
   ],
   "2011": [
+    {
+      "name": "Another Code: R - A Journey into Lost Memories ",
+      "status": "Beaten",
+      "plataform": "Wii",
+      "releaseyear": 2009,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4ole.jpg"
+    },
     {
       "name": "Black Rock Shooter: The Game",
       "status": "Beaten",
@@ -1045,6 +1066,13 @@
       "plataform": "PSP",
       "releaseyear": 2010,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3wn1.jpg"
+    },
+    {
+      "name": "The Beatles: Rock Band",
+      "status": "Not Started",
+      "plataform": "Wii",
+      "releaseyear": 2009,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1wqo.jpg"
     }
   ]
 }
