@@ -327,6 +327,14 @@
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2r5w.jpg"
     },
     {
+      "name": "Sayonara Wild Hearts",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "AArcade",
+      "releaseyear": 2020,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2gx1.jpg"
+    },
+    {
       "name": "SuperHot VR",
       "status": "Beaten",
       "nsfw": 0,
@@ -626,7 +634,7 @@
       "nsfw": 0,
       "plataform": "PC",
       "releaseyear": 2014,
-      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2pes.jpg"
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/333980/library_600x900.jpg?t=1624574297"
     },
     {
       "name": "Atelier Rorona Plus",
@@ -836,7 +844,7 @@
       "nsfw": 0,
       "plataform": "3DS",
       "releaseyear": 2014,
-      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3rpt.jpg"
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2hhf.jpg"
     },
     {
       "name": "Senran Kagura: Estival Versus",
@@ -844,7 +852,7 @@
       "nsfw": 0,
       "plataform": "PSV",
       "releaseyear": 2016,
-      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2r9p.jpg"
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/502800/library_600x900.jpg?t=1622824565"
     },
     {
       "name": "Senran Kagura: Shinovi Versus ",
@@ -1093,12 +1101,12 @@
   ],
   "2013": [
     {
-      "name": "Arcana Hearts 3",
+      "name": "Arcana Heart 3",
       "status": "Beaten",
       "nsfw": 0,
       "plataform": "PS3",
-      "releaseyear": null,
-      "img": ""
+      "releaseyear": 2011,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1vm1.jpg"
     },
     {
       "name": "Catherine",
