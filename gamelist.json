@@ -17,6 +17,14 @@
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5gw7.jpg"
     },
     {
+      "name": "Down The Rabbit Hole",
+      "status": "In Progress",
+      "nsfw": 0,
+      "plataform": "PC (VR)",
+      "releaseyear": 2019,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1zjm.jpg"
+    },
+    {
       "name": "HuniePop 2: Double Date",
       "status": "Beaten",
       "nsfw": 1,
@@ -71,6 +79,14 @@
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2hdx.jpg"
+    },
+    {
+      "name": "The Button",
+      "status": "Completed",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": 2023,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co667l.jpg"
     },
     {
       "name": "The Stanley Parable",
@@ -328,7 +344,7 @@
     },
     {
       "name": "Sayonara Wild Hearts",
-      "status": "Not Started",
+      "status": "Beaten",
       "nsfw": 0,
       "plataform": "AArcade",
       "releaseyear": 2020,
@@ -634,7 +650,7 @@
       "nsfw": 0,
       "plataform": "PC",
       "releaseyear": 2014,
-      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/333980/library_600x900.jpg?t=1624574297"
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/333980/library_600x900_2x.jpg?t=1624574297"
     },
     {
       "name": "Atelier Rorona Plus",
@@ -787,7 +803,7 @@
       "status": "Beaten",
       "nsfw": 1,
       "plataform": "PC",
-      "releaseyear": null,
+      "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2sor.jpg"
     },
     {
@@ -852,10 +868,10 @@
       "nsfw": 0,
       "plataform": "PSV",
       "releaseyear": 2016,
-      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/502800/library_600x900.jpg?t=1622824565"
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/502800/library_600x900_2x.jpg?t=1622824565"
     },
     {
-      "name": "Senran Kagura: Shinovi Versus ",
+      "name": "Senran Kagura: Shinovi Versus",
       "status": "Beaten",
       "nsfw": 0,
       "plataform": "PC",
@@ -1190,7 +1206,7 @@
     },
     {
       "name": "Portal",
-      "status": "Not Started",
+      "status": "Beaten",
       "nsfw": 0,
       "plataform": "PC",
       "releaseyear": 2007,
@@ -1206,7 +1222,7 @@
     },
     {
       "name": "The Beatles: Rock Band",
-      "status": "Not Started",
+      "status": "Beaten",
       "nsfw": 0,
       "plataform": "PS3",
       "releaseyear": 2009,
@@ -1215,7 +1231,7 @@
   ],
   "2011": [
     {
-      "name": "Another Code: R - A Journey into Lost Memories ",
+      "name": "Another Code: R - A Journey into Lost Memories",
       "status": "Beaten",
       "nsfw": 0,
       "plataform": "Wii",
@@ -1239,7 +1255,7 @@
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1w25.jpg"
     },
     {
-      "name": "K-On! Houkago Live!! ",
+      "name": "K-On! Houkago Live!!",
       "status": "Beaten",
       "nsfw": 0,
       "plataform": "PSP",
@@ -1282,7 +1298,7 @@
     },
     {
       "name": "The Beatles: Rock Band",
-      "status": "Not Started",
+      "status": "Beaten",
       "nsfw": 0,
       "plataform": "Wii",
       "releaseyear": 2009,
