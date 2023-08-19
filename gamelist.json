@@ -9,6 +9,22 @@
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2uls.jpg"
     },
     {
+      "name": "A Fisherman's Tale",
+      "status": "Beaten",
+      "nsfw": 0,
+      "plataform": "PC (VR)",
+      "releaseyear": 2019,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1iaz.jpg"
+    },
+    {
+      "name": "Atelier Ryza 3",
+      "status": "Beaten",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": 2023,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6aym.jpg"
+    },
+    {
       "name": "Dimension Tripper Neptune: Top Nep",
       "status": "Beaten",
       "nsfw": 0,
@@ -57,12 +73,28 @@
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2olq.jpg"
     },
     {
+      "name": "Madrid Noir",
+      "status": "Finished",
+      "nsfw": 0,
+      "plataform": "PC (VR)",
+      "releaseyear": 2021,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5hhq.jpg"
+    },
+    {
       "name": "Pineapple On Pizza",
       "status": "Completed",
       "nsfw": 0,
       "plataform": "PC",
       "releaseyear": 2023,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co69au.jpg"
+    },
+    {
+      "name": "Pistol Whip",
+      "status": "Beaten",
+      "nsfw": 0,
+      "plataform": "PC (VR)",
+      "releaseyear": 2019,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1swl.jpg"
     },
     {
       "name": "Rime",
@@ -79,6 +111,14 @@
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2hdx.jpg"
+    },
+    {
+      "name": "The Book of Distance",
+      "status": "Beaten",
+      "nsfw": 0,
+      "plataform": "PC  (VR)",
+      "releaseyear": 2020,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co432z.jpg"
     },
     {
       "name": "The Button",
