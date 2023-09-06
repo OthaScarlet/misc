@@ -34,11 +34,19 @@
     },
     {
       "name": "Down The Rabbit Hole",
-      "status": "In Progress",
+      "status": "Beaten",
       "nsfw": 0,
       "plataform": "PC (VR)",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1zjm.jpg"
+    },
+    {
+      "name": "Honkai: Star Rail",
+      "status": "Updated",
+      "nsfw": 0,
+      "plataform": "PC,iOS",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6f1s.jpg"
     },
     {
       "name": "HuniePop 2: Double Date",
@@ -116,7 +124,7 @@
       "name": "The Book of Distance",
       "status": "Beaten",
       "nsfw": 0,
-      "plataform": "PC  (VR)",
+      "plataform": "PC (VR)",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co432z.jpg"
     },
@@ -687,7 +695,7 @@
     {
       "name": "AKIBA'S TRIP: Undead & Undressed",
       "status": "Beaten",
-      "nsfw": 0,
+      "nsfw": 1,
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/333980/library_600x900.jpg"
