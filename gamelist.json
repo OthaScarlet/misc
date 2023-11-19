@@ -25,6 +25,22 @@
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6aym.jpg"
     },
     {
+      "name": "Behind The Frame: The Finest Scenery",
+      "status": "Beaten",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": 2021,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co36h5.jpg"
+    },
+    {
+      "name": "Danganronpa: Trigger Happy Havoc",
+      "status": "Beaten",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": 2014,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1n1w.jpg"
+    },
+    {
       "name": "Dimension Tripper Neptune: Top Nep",
       "status": "Beaten",
       "nsfw": 0,
@@ -87,6 +103,22 @@
       "plataform": "PC (VR)",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5hhq.jpg"
+    },
+    {
+      "name": "Milk inside a bag of milk inside a bag of milk",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": 2020,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co66n4.jpg"
+    },
+    {
+      "name": "Night in the Woods",
+      "status": "Beaten",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": 2017,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4ovg.jpg"
     },
     {
       "name": "Pineapple On Pizza",
