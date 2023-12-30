@@ -4,6 +4,7 @@
       "name": "13 Sentinels: Aegis Rim",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2uls.jpg"
@@ -12,6 +13,7 @@
       "name": "A Fisherman's Tale",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1iaz.jpg"
@@ -20,6 +22,7 @@
       "name": "Atelier Ryza 3",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2023,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6aym.jpg"
@@ -28,14 +31,25 @@
       "name": "Behind The Frame: The Finest Scenery",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co36h5.jpg"
     },
     {
+      "name": "BioShock 2: Minerva's Den",
+      "status": "Beaten",
+      "nsfw": 0,
+      "type": "DLC",
+      "plataform": "PC",
+      "releaseyear": 2010,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co54yk.jpg"
+    },
+    {
       "name": "Danganronpa: Trigger Happy Havoc",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1n1w.jpg"
@@ -44,6 +58,7 @@
       "name": "Dimension Tripper Neptune: Top Nep",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2022,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5gw7.jpg"
@@ -52,22 +67,25 @@
       "name": "Down The Rabbit Hole",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1zjm.jpg"
     },
     {
       "name": "Honkai: Star Rail",
-      "status": "Updated",
+      "status": "InProgress",
       "nsfw": 0,
+      "type": "GaaS",
       "plataform": "PC,iOS",
-      "releaseyear": null,
+      "releaseyear": 2023,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6f1s.jpg"
     },
     {
       "name": "HuniePop 2: Double Date",
       "status": "Beaten",
       "nsfw": 1,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5x87.jpg"
@@ -76,14 +94,25 @@
       "name": "Job Simulator",
       "status": "Completed",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2qgk.jpg"
     },
     {
+      "name": "KAMIKO",
+      "status": "Not Started",
+      "nsfw": 0,
+      "type": "Game",
+      "plataform": "PC",
+      "releaseyear": 2017,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co21ap.jpg"
+    },
+    {
       "name": "LiEat",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2noe.jpg"
@@ -92,6 +121,7 @@
       "name": "Lone Echo",
       "status": "Dropped",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (Oculus)",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2olq.jpg"
@@ -100,6 +130,7 @@
       "name": "Madrid Noir",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5hhq.jpg"
@@ -108,6 +139,7 @@
       "name": "Milk inside a bag of milk inside a bag of milk",
       "status": "Not Started",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co66n4.jpg"
@@ -116,6 +148,7 @@
       "name": "Night in the Woods",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4ovg.jpg"
@@ -124,6 +157,7 @@
       "name": "Pineapple On Pizza",
       "status": "Completed",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2023,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co69au.jpg"
@@ -132,6 +166,7 @@
       "name": "Pistol Whip",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1swl.jpg"
@@ -140,6 +175,7 @@
       "name": "Rime",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (EGS)",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2h4w.jpg"
@@ -148,6 +184,7 @@
       "name": "Sumire",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2hdx.jpg"
@@ -156,6 +193,7 @@
       "name": "The Book of Distance",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co432z.jpg"
@@ -164,6 +202,7 @@
       "name": "The Button",
       "status": "Completed",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2023,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co667l.jpg"
@@ -172,6 +211,7 @@
       "name": "The Stanley Parable",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (EGS)",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1rc9.jpg"
@@ -182,6 +222,7 @@
       "name": "A Short Hike",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (itch.io)",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6e83.jpg"
@@ -190,6 +231,7 @@
       "name": "Atelier Ryza 2",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NSW",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2hbf.jpg"
@@ -198,6 +240,7 @@
       "name": "Blue Reflection: Second Light",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3ww1.jpg"
@@ -206,6 +249,7 @@
       "name": "Celeste",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NSW",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3byy.jpg"
@@ -214,6 +258,7 @@
       "name": "Doom Eternal",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3p5n.jpg"
@@ -222,6 +267,7 @@
       "name": "Dweller's Empty Path",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (itch.io)",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2u0q.jpg"
@@ -230,6 +276,7 @@
       "name": "Gal*Gun 2",
       "status": "Beaten",
       "nsfw": 1,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2018,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2q7m.jpg"
@@ -238,6 +285,7 @@
       "name": "Severed Steel",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3p7f.jpg"
@@ -246,6 +294,7 @@
       "name": "Splatoon 2: Octo Expansion",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NSW",
       "releaseyear": 2018,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co21ji.jpg"
@@ -254,6 +303,7 @@
       "name": "The Adventure of Nayu",
       "status": "Completed",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2omg.jpg"
@@ -262,6 +312,7 @@
       "name": "The Curious Tale of the Stolen Pets",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1m5v.jpg"
@@ -270,6 +321,7 @@
       "name": "The Great Ace Attorney 2: Resolve",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2ym3.jpg"
@@ -280,6 +332,7 @@
       "name": "Beat Saber",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2018,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co20ux.jpg"
@@ -288,6 +341,7 @@
       "name": "Gris",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1qv5.jpg"
@@ -296,6 +350,7 @@
       "name": "NieR Replicant ver.1.22474487139...",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5h0n.jpg"
@@ -304,6 +359,7 @@
       "name": "Persona 5 Royal",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1nic.jpg"
@@ -312,6 +368,7 @@
       "name": "Sea of Solitude",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (Origin)",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1m4m.jpg"
@@ -320,6 +377,7 @@
       "name": "The Great Ace Attorney: Adventures",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2021,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2ym2.jpg"
@@ -328,6 +386,7 @@
       "name": "Undertale",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2855.jpg"
@@ -338,6 +397,7 @@
       "name": "Atelier Ayesha",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSV",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4hml.jpg"
@@ -346,6 +406,7 @@
       "name": "Atelier Ryza",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co20uc.jpg"
@@ -354,6 +415,7 @@
       "name": "Borderlands 2",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2012,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co20tn.jpg"
@@ -362,6 +424,7 @@
       "name": "Bravely Second: End Layer",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co26hd.jpg"
@@ -370,6 +433,7 @@
       "name": "DOOM 3: BFG",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2012,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3ovt.jpg"
@@ -378,6 +442,7 @@
       "name": "Drakengard 3",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co25oy.jpg"
@@ -386,6 +451,7 @@
       "name": "Gylt",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "Stadia",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2qad.jpg"
@@ -394,6 +460,7 @@
       "name": "Half-Life: Alyx",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1tq3.jpg"
@@ -402,6 +469,7 @@
       "name": "Hellblade: Senua's Sacrifice",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2l7l.jpg"
@@ -410,6 +478,7 @@
       "name": "Rabi-Ribi",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4eck.jpg"
@@ -418,6 +487,7 @@
       "name": "River City Girls",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NSW",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2r5w.jpg"
@@ -426,6 +496,7 @@
       "name": "Sayonara Wild Hearts",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "AArcade",
       "releaseyear": 2020,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2gx1.jpg"
@@ -434,6 +505,7 @@
       "name": "SuperHot VR",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co24uu.jpg"
@@ -442,6 +514,7 @@
       "name": "The Last Guardian",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co271e.jpg"
@@ -450,6 +523,7 @@
       "name": "The Last Of Us Remastered",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5zks.jpg"
@@ -458,6 +532,7 @@
       "name": "The Wolf Among Us",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1rcy.jpg"
@@ -466,6 +541,7 @@
       "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2z8k.jpg"
@@ -474,6 +550,7 @@
       "name": "Zero Time Dilemma",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co260k.jpg"
@@ -484,6 +561,7 @@
       "name": "Atelier Lulua: The Scion of Arland",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NSW",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2phb.jpg"
@@ -492,6 +570,7 @@
       "name": "Battle Chef Brigade",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5fv9.jpg"
@@ -500,6 +579,7 @@
       "name": "Escaped Chasm",
       "status": "Completed",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (itch.io)",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2igg.jpg"
@@ -508,6 +588,7 @@
       "name": "Gears of War: Ultimate Edition",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (XGP)",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co246i.jpg"
@@ -516,6 +597,7 @@
       "name": "Metro Exodus",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (XGP)",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1iuj.jpg"
@@ -524,6 +606,7 @@
       "name": "Momodora III",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co21ct.jpg"
@@ -532,6 +615,7 @@
       "name": "Momodora: Reverie Under the Moonlight",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2xu6.jpg"
@@ -540,6 +624,7 @@
       "name": "Moss",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (VR)",
       "releaseyear": 2018,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1i1j.jpg"
@@ -548,6 +633,7 @@
       "name": "Ori and the Blind Forest: Definitive Edition",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2s0m.jpg"
@@ -556,6 +642,7 @@
       "name": "Pokémon Link",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NDS",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5stj.jpg"
@@ -564,6 +651,7 @@
       "name": "Splatoon 2",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NSW",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6dn3.jpg"
@@ -572,6 +660,7 @@
       "name": "Touhou Kobuto V: Burst Battle",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co23gm.jpg"
@@ -580,6 +669,7 @@
       "name": "Travis Strikes Again: No More Heroes",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NSW",
       "releaseyear": 2019,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3tnf.jpg"
@@ -588,6 +678,7 @@
       "name": "Valkyria Chronicles 4",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2018,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co20r6.jpg"
@@ -596,6 +687,7 @@
       "name": "Wolfenstein II",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC (XGP)",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co21c5.jpg"
@@ -606,6 +698,7 @@
       "name": "Atelier Meruru",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSV",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4hmv.jpg"
@@ -614,6 +707,7 @@
       "name": "Atelier Totori",
       "status": "Completed",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSV",
       "releaseyear": 2012,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2vw7.jpg"
@@ -622,6 +716,7 @@
       "name": "Bayonetta 2",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NSW",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6ffy.jpg"
@@ -630,6 +725,7 @@
       "name": "Blue Reflection",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4aux.jpg"
@@ -638,6 +734,7 @@
       "name": "Dragon's Crown Pro",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2018,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2gal.jpg"
@@ -646,6 +743,7 @@
       "name": "Firewatch",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1m35.jpg"
@@ -654,6 +752,7 @@
       "name": "Gravity Rush 2",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2q9u.jpg"
@@ -662,6 +761,7 @@
       "name": "Odin Sphere: Leifthrasir",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2008,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co25ur.jpg"
@@ -670,6 +770,7 @@
       "name": "Rise of the Tomb Raider",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1rqa.jpg"
@@ -678,6 +779,7 @@
       "name": "Senran Kagura: Peach Beach Splash",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3maa.jpg"
@@ -686,6 +788,7 @@
       "name": "Shantae and the Pirate's Curse",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4b1u.jpg"
@@ -694,6 +797,7 @@
       "name": "Shantae: Half-Genie Hero Ultimate Edition",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS4",
       "releaseyear": 2018,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3rka.jpg"
@@ -702,6 +806,7 @@
       "name": "Shantae: Risky's Revenge",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co49xa.jpg"
@@ -710,6 +815,7 @@
       "name": "Tetris with Cardcaptor Sakura: Eternal Heart",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSX",
       "releaseyear": 2000,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4otl.jpg"
@@ -718,6 +824,7 @@
       "name": "Valkyria Chronicles",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2008,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/bvmjjiorjpcclmdorauw.jpg"
@@ -728,6 +835,7 @@
       "name": "AKIBA'S TRIP: Undead & Undressed",
       "status": "Beaten",
       "nsfw": 1,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/333980/library_600x900.jpg"
@@ -736,6 +844,7 @@
       "name": "Atelier Rorona Plus",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSV",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2vvz.jpg"
@@ -744,6 +853,7 @@
       "name": "Bravely Default",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co25nj.jpg"
@@ -752,6 +862,7 @@
       "name": "Cinderella Escape!",
       "status": "Completed",
       "nsfw": 1,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3n5p.jpg"
@@ -760,6 +871,7 @@
       "name": "Corpse Party",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2017,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1s68.jpg"
@@ -768,6 +880,7 @@
       "name": "Doom",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1nc7.jpg"
@@ -776,6 +889,7 @@
       "name": "Muramasa: The Demon Blade",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSV",
       "releaseyear": 2009,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4hjj.jpg"
@@ -784,6 +898,7 @@
       "name": "Out There Somewhere",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2iqg.jpg"
@@ -792,6 +907,7 @@
       "name": "Senran Kagura 2: Deep Crimson",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3s8j.jpg"
@@ -800,6 +916,7 @@
       "name": "Tomb Raider",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1rbu.jpg"
@@ -808,6 +925,7 @@
       "name": "Wolfenstein: The Old Blood",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co21et.jpg"
@@ -818,6 +936,7 @@
       "name": "999",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NDS",
       "releaseyear": 2018,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4hsz.jpg"
@@ -826,6 +945,7 @@
       "name": "Batman: Arkham Knight",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1nh1.jpg"
@@ -834,6 +954,7 @@
       "name": "D4: Dark Dreams Don't Die",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4wg0.jpg"
@@ -842,6 +963,7 @@
       "name": "Fez",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1rd9.jpg"
@@ -850,14 +972,16 @@
       "name": "Ghost Trick: Phantom Detective",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NDS",
-      "releaseyear": 2012,
+      "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2yj9.jpg"
     },
     {
       "name": "Gravity Rush",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSV",
       "releaseyear": 2012,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5tgy.jpg"
@@ -866,6 +990,7 @@
       "name": "Half-Life 2: Lost Coast",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2005,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co25r5.jpg"
@@ -874,6 +999,7 @@
       "name": "Hotline Miami 2: Wrong Number",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3wf6.jpg"
@@ -882,6 +1008,7 @@
       "name": "HuniePop",
       "status": "Beaten",
       "nsfw": 1,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2sor.jpg"
@@ -890,6 +1017,7 @@
       "name": "Life is Strange",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1r8e.jpg"
@@ -898,6 +1026,7 @@
       "name": "Metro: Last Light Redux",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co20bk.jpg"
@@ -906,6 +1035,7 @@
       "name": "Phoenix Wright: Ace Attorney - Dual Destinies",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5z8o.jpg"
@@ -914,6 +1044,7 @@
       "name": "Phoenix Wright: Ace Attorney - Spirit of Justice",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5z95.jpg"
@@ -922,6 +1053,7 @@
       "name": "Professor Layton vs. Phoenix Wright: Ace Attorney",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co25vf.jpg"
@@ -930,6 +1062,7 @@
       "name": "Remember Me",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2h9u.jpg"
@@ -938,6 +1071,7 @@
       "name": "Senran Kagura Burst",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2hhf.jpg"
@@ -946,6 +1080,7 @@
       "name": "Senran Kagura: Estival Versus",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSV",
       "releaseyear": 2016,
       "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/502800/library_600x900.jpg"
@@ -954,6 +1089,7 @@
       "name": "Senran Kagura: Shinovi Versus",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2hgv.jpg"
@@ -962,14 +1098,16 @@
       "name": "Shovel Knight",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2014,
-      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1p9i.jpg"
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6pup.jpg"
     },
     {
       "name": "Virtue's Last Reward",
       "status": "Finished",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "3DS",
       "releaseyear": 2012,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co260l.jpg"
@@ -980,6 +1118,7 @@
       "name": "Ace Attorney Investigations: Miles Edgeworth",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "NDS",
       "releaseyear": 2010,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5z8q.jpg"
@@ -988,6 +1127,7 @@
       "name": "Batman: Arkham Origins",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1nmd.jpg"
@@ -996,6 +1136,7 @@
       "name": "Bioshock Infinite",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2016,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2n12.jpg"
@@ -1004,6 +1145,7 @@
       "name": "Blade Kitten",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2010,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2lav.jpg"
@@ -1012,6 +1154,7 @@
       "name": "Child of Light",
       "status": "Completed",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co21q2.jpg"
@@ -1020,6 +1163,7 @@
       "name": "Dengeki Bunko: Fighting Climax",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co60q0.jpg"
@@ -1028,6 +1172,7 @@
       "name": "Metro 2033 Redux",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2e1s.jpg"
@@ -1036,6 +1181,7 @@
       "name": "Transistor",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1pi1.jpg"
@@ -1044,6 +1190,7 @@
       "name": "Valiant Hearts: The Great War",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co25zo.jpg"
@@ -1054,14 +1201,16 @@
       "name": "Bastion",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
-      "releaseyear": 2012,
+      "releaseyear": 2015,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1qlj.jpg"
     },
     {
       "name": "Batman: Arkham Asylum",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2009,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1voj.jpg"
@@ -1070,6 +1219,7 @@
       "name": "Batman: Arkham City",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1voh.jpg"
@@ -1078,6 +1228,7 @@
       "name": "Bayonetta",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2018,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1p92.jpg"
@@ -1086,6 +1237,7 @@
       "name": "Bioshock",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2008,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2mli.jpg"
@@ -1094,6 +1246,7 @@
       "name": "Bioshock 2",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2010,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2mlj.jpg"
@@ -1102,14 +1255,16 @@
       "name": "Cave Story+",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
-      "releaseyear": 2017,
+      "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2380.jpg"
     },
     {
       "name": "Counter-Strike: Condition Zero - Deleted Scenes",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1tx4.jpg"
@@ -1118,6 +1273,7 @@
       "name": "Fairy Bloom Freesia",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2y5u.jpg"
@@ -1126,6 +1282,7 @@
       "name": "Hotline Miami",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2012,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1vqp.jpg"
@@ -1134,6 +1291,7 @@
       "name": "Mirror's Edge",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2008,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5gbw.jpg"
@@ -1142,6 +1300,7 @@
       "name": "No More Heroes: Heroes' Paradise",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2xf7.jpg"
@@ -1150,6 +1309,7 @@
       "name": "Portal 2",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.jpg"
@@ -1158,6 +1318,7 @@
       "name": "Red Dead Redemption",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2010,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2lcv.jpg"
@@ -1166,6 +1327,7 @@
       "name": "Red Dead Redemption: Undead Nightmare",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2010,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2lcw.jpg"
@@ -1174,6 +1336,7 @@
       "name": "SkullGirls",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2014,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3j91.jpg"
@@ -1182,6 +1345,7 @@
       "name": "Spec Ops: The Line",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2acb.jpg"
@@ -1190,8 +1354,9 @@
       "name": "To the Moon",
       "status": "Completed",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
-      "releaseyear": 2017,
+      "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co25yv.jpg"
     }
   ],
@@ -1200,6 +1365,7 @@
       "name": "Arcana Heart 3",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1vm1.jpg"
@@ -1208,14 +1374,16 @@
       "name": "Catherine",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
-      "releaseyear": 2012,
+      "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co244u.jpg"
     },
     {
       "name": "Half-Life 2",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2004,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1nmw.jpg"
@@ -1224,6 +1392,7 @@
       "name": "Half-Life 2: Episode One",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2007,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2mw3.jpg"
@@ -1232,6 +1401,7 @@
       "name": "Half-Life 2: Episode Two",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2007,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2mw2.jpg"
@@ -1240,6 +1410,7 @@
       "name": "Hyperdimension Neptunia",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2mke.jpg"
@@ -1248,6 +1419,7 @@
       "name": "Injustice: Gods Among Us",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3wim.jpg"
@@ -1256,6 +1428,7 @@
       "name": "Journey",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2012,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1q8q.jpg"
@@ -1264,6 +1437,7 @@
       "name": "Kingdom Hearts Birth by Sleep",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSP",
       "releaseyear": 2010,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2ych.jpg"
@@ -1272,6 +1446,7 @@
       "name": "Mass Effect 2",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2011,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co20ac.jpg"
@@ -1280,6 +1455,7 @@
       "name": "Mass Effect 3",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2012,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1x7q.jpg"
@@ -1288,6 +1464,7 @@
       "name": "Portal",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PC",
       "releaseyear": 2007,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1x7d.jpg"
@@ -1296,6 +1473,7 @@
       "name": "Resident Evil 5",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2009,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2vzi.jpg"
@@ -1304,6 +1482,7 @@
       "name": "The Beatles: Rock Band",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PS3",
       "releaseyear": 2009,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1wqo.jpg"
@@ -1314,6 +1493,7 @@
       "name": "Another Code: R - A Journey into Lost Memories",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "Wii",
       "releaseyear": 2009,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4ole.jpg"
@@ -1322,6 +1502,7 @@
       "name": "Black Rock Shooter: The Game",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSP",
       "releaseyear": 2013,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2f5w.jpg"
@@ -1330,14 +1511,16 @@
       "name": "Higurashi Daybreak",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSP",
       "releaseyear": 2006,
-      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1w25.jpg"
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co754y.jpg"
     },
     {
       "name": "K-On! Houkago Live!!",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSP",
       "releaseyear": 2012,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4x0h.jpg"
@@ -1346,6 +1529,7 @@
       "name": "The Simpsons Game",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSP",
       "releaseyear": 2007,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2ma9.jpg"
@@ -1356,6 +1540,7 @@
       "name": "(JP) Kingdom Hearts Birth by Sleep",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSP",
       "releaseyear": 2010,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2ych.jpg"
@@ -1364,6 +1549,7 @@
       "name": "Hatsune Miku: Project Diva",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSP",
       "releaseyear": 2009,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3z3r.jpg"
@@ -1372,6 +1558,7 @@
       "name": "Hatsune Miku: Project Diva 2nd",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "PSP",
       "releaseyear": 2010,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3wn1.jpg"
@@ -1380,6 +1567,7 @@
       "name": "The Beatles: Rock Band",
       "status": "Beaten",
       "nsfw": 0,
+      "type": "Game",
       "plataform": "Wii",
       "releaseyear": 2009,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1wqo.jpg"
