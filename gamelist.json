@@ -1,4 +1,22 @@
 {
+"2024": [
+    {
+      "name": "Another Code: Recollection",
+      "status": "Beaten",
+      "nsfw": 0,
+      "plataform": "NSW",
+      "releaseyear": 2024,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co72z3.jpg"
+    },
+    {
+      "name": "In Stars and Time",
+      "status": "Finished",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": 2023,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5bsf.jpg"
+    }
+  ],
   "2023": [
     {
       "name": "13 Sentinels: Aegis Rim",
