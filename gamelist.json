@@ -10,6 +10,14 @@
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co72z3.jpg"
       },
       {
+        "name": "Borderlands",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2009,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co20tx.jpg"
+      },
+      {
         "name": "Fashion Police Squad",
         "status": "Beaten",
         "nsfw": 0,
@@ -57,7 +65,7 @@
         "nsfw": 0,
         "plataform": "PC",
         "releaseyear": 2023,
-        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6aym.jpg"
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co59tz.jpg"
       },
       {
         "name": "Behind The Frame: The Finest Scenery",
@@ -97,7 +105,7 @@
         "nsfw": 0,
         "plataform": "PC (VR)",
         "releaseyear": 2019,
-        "img": ""
+        "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1215270/library_600x900.jpg"
       },
       {
         "name": "Honkai: Star Rail",
@@ -991,7 +999,7 @@
         "nsfw": 0,
         "plataform": "3DS",
         "releaseyear": 2014,
-        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3rpt.jpg"
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2hhf.jpg"
       },
       {
         "name": "Senran Kagura: Estival Versus",
@@ -999,7 +1007,7 @@
         "nsfw": 0,
         "plataform": "PSV",
         "releaseyear": 2016,
-        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6ga8.jpg"
+        "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/502800/library_600x900.jpg"
       },
       {
         "name": "Senran Kagura: Shinovi Versus",
