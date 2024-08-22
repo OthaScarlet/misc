@@ -18,12 +18,28 @@
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co20tx.jpg"
       },
       {
+        "name": "Coffee Talk",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": null,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co55rx.jpg"
+      },
+      {
         "name": "Fashion Police Squad",
         "status": "Beaten",
         "nsfw": 0,
         "plataform": "PC",
         "releaseyear": 2023,
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2kah.jpg"
+      },
+      {
+        "name": "Hollow Knight",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2017,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1rgi.jpg"
       },
       {
         "name": "In Stars and Time",
