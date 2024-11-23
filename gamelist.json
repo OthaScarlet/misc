@@ -2,12 +2,28 @@
   "GamesYearly": {
     "2024": [
       {
+        "name": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2023,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co8s9f.jpg"
+      },
+      {
         "name": "Another Code: Recollection",
         "status": "Beaten",
         "nsfw": 0,
         "plataform": "NSW",
         "releaseyear": 2024,
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co72z3.jpg"
+      },
+      {
+        "name": "Atelier Escha & Logy",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PSV",
+        "releaseyear": 2016,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co4hmt.jpg"
       },
       {
         "name": "Borderlands",
