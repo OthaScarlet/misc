@@ -66,6 +66,14 @@
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5bsf.jpg"
       },
       {
+        "name": "Necrobarista",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2021,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3wn4.jpg"
+      },
+      {
         "name": "NieR: Automata",
         "status": "Finished",
         "nsfw": 0,
@@ -234,6 +242,14 @@
         "plataform": "PC (EGS)",
         "releaseyear": 2017,
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2h4w.jpg"
+      },
+      {
+        "name": "Starlight Vega",
+        "status": "Completed",
+        "nsfw": 1,
+        "plataform": "PC",
+        "releaseyear": null,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2hjg.jpg"
       },
       {
         "name": "Sumire",
@@ -1445,12 +1461,76 @@
   },
   "GaaS": [
     {
+      "name": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator ",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co7e24.jpg"
+    },
+    {
+      "name": "BanG Dream! Girls Band Party! ",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "Android",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co7lau.jpg"
+    },
+    {
+      "name": "Gakuen Idolmaster ",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "Android",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co87ph.jpg"
+    },
+    {
+      "name": "Heaven Burns Red",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5025.jpg"
+    },
+    {
       "name": "Honkai: Star Rail",
       "status": "In Progress",
       "nsfw": 0,
       "plataform": "PC,iOS",
       "releaseyear": 2023,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co8dsp.jpg"
+    },
+    {
+      "name": "Love Live! School Idol Festival ",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "Android",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co5y7m.jpg"
+    },
+    {
+      "name": "Show by Rock!! Fes A Live ",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "Android",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co8gvi.jpg"
+    },
+    {
+      "name": "The Idolmaster: Cinderella Girls - Starlight Stage ",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "Android",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1nu0.jpg"
+    },
+    {
+      "name": "The Idolmaster: Million Live! Theater Days ",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "Android",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2mro.jpg"
     }
   ]
 }
