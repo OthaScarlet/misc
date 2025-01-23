@@ -1465,6 +1465,24 @@
         "releaseyear": 2007,
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2ma9.jpg"
       }
+    ],
+    "2025": [
+      {
+        "name": "Atelier Marie Remake: The Alchemist of Salburg",
+        "status": "In Progress",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2023,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co64rp.jpg"
+      },
+      {
+        "name": "Tetris Effect",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC,SteamVR",
+        "releaseyear": null,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co7kus.jpg"
+      }
     ]
   },
   "GaaS": [
@@ -1507,6 +1525,14 @@
       "plataform": "PC,iOS",
       "releaseyear": 2023,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co8dsp.jpg"
+    },
+    {
+      "name": "Infinity Nikki",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "PC",
+      "releaseyear": null,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co8tdc.jpg"
     },
     {
       "name": "Love Live! School Idol Festival ",
