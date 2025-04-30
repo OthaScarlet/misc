@@ -1468,12 +1468,28 @@
     ],
     "2025": [
       {
+        "name": "AI: The Somnium Files",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2019,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1mjy.jpg"
+      },
+      {
         "name": "Atelier Marie Remake: The Alchemist of Salburg",
         "status": "In Progress",
         "nsfw": 0,
         "plataform": "PC",
         "releaseyear": 2023,
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co64rp.jpg"
+      },
+      {
+        "name": "Pocket Mirror: GoldenerTraum",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": null,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co6k6y.jpg"
       },
       {
         "name": "Tetris Effect",
