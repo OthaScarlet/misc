@@ -1484,6 +1484,22 @@
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co64rp.jpg"
       },
       {
+        "name": "Danganronpa 2: Goodbye Despair",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2014,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2h6j.jpg"
+      },
+      {
+        "name": "Doom Eternal: The Ancient Gods",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2020,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3f5b.jpg"
+      },
+      {
         "name": "Pocket Mirror: GoldenerTraum",
         "status": "Beaten",
         "nsfw": 0,
@@ -1498,6 +1514,14 @@
         "plataform": "PC,SteamVR",
         "releaseyear": null,
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co7kus.jpg"
+      },
+      {
+        "name": "of the Devil (Episode:0&1)",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": null,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co7ope.jpg"
       }
     ]
   },
