@@ -1484,6 +1484,14 @@
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co64rp.jpg"
       },
       {
+        "name": "Control",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2021,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2evj.jpg"
+      },
+      {
         "name": "Control: AWE",
         "status": "Beaten",
         "nsfw": 0,
@@ -1498,14 +1506,6 @@
         "plataform": "PC",
         "releaseyear": 2020,
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2eb5.jpg"
-      },
-      {
-        "name": "Control: Ultimate Edition",
-        "status": "Beaten",
-        "nsfw": 0,
-        "plataform": "PC",
-        "releaseyear": 2021,
-        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2ewb.jpg"
       },
       {
         "name": "Danganronpa 2: Goodbye Despair",
@@ -1524,12 +1524,12 @@
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3f5b.jpg"
       },
       {
-        "name": "Guitar Hero: Warrior Of Rock",
+        "name": "Guitar Hero: Warriors of Rock",
         "status": "Beaten",
         "nsfw": 0,
         "plataform": "360",
         "releaseyear": null,
-        "img": ""
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1qhs.jpg"
       },
       {
         "name": "Pocket Mirror: GoldenerTraum",
