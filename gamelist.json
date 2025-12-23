@@ -1532,6 +1532,14 @@
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1qhs.jpg"
       },
       {
+        "name": "OMORI",
+        "status": "In Progress",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2020,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co1xlp.jpg"
+      },
+      {
         "name": "Pocket Mirror: GoldenerTraum",
         "status": "Beaten",
         "nsfw": 0,
