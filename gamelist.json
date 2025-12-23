@@ -1484,6 +1484,30 @@
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co64rp.jpg"
       },
       {
+        "name": "Control: AWE",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2020,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co97ix.jpg"
+      },
+      {
+        "name": "Control: The Foundation",
+        "status": "In Progress",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2020,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2eb5.jpg"
+      },
+      {
+        "name": "Control: Ultimate Edition",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "PC",
+        "releaseyear": 2021,
+        "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2ewb.jpg"
+      },
+      {
         "name": "Danganronpa 2: Goodbye Despair",
         "status": "Beaten",
         "nsfw": 0,
@@ -1498,6 +1522,14 @@
         "plataform": "PC",
         "releaseyear": 2020,
         "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co3f5b.jpg"
+      },
+      {
+        "name": "Guitar Hero: Warrior Of Rock",
+        "status": "Beaten",
+        "nsfw": 0,
+        "plataform": "360",
+        "releaseyear": null,
+        "img": ""
       },
       {
         "name": "Pocket Mirror: GoldenerTraum",
@@ -1605,6 +1637,14 @@
       "plataform": "Android",
       "releaseyear": null,
       "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/co2mro.jpg"
+    },
+    {
+      "name": "Umamusume",
+      "status": "Not Started",
+      "nsfw": 0,
+      "plataform": "Android,PC",
+      "releaseyear": 2021,
+      "img": "http://images.igdb.com/igdb/image/upload/t_cover_big/coamgf.jpg"
     }
   ]
 }
